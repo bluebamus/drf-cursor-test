@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "drf-cursor-test"
+version = "0.1.0"
+description = "A Django-based blog project"
+authors = ["bluebamus <bluebamus@naver.com>", "Your Name <your.email@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+Django = "^3.2.9"
+djangorestframework = "^3.12.4"
+djangorestframework-simplejwt = "^4.8.0"
+django-filter = "^21.1"
+django-cors-headers = "^3.10.0"
+drf-spectacular = "^0.21.0"
+Pillow = "^10.0.0"  # 또는 더 최신 버전
+python-dotenv = "^0.19.2"
+setuptools = "^75.2.0"
+drf-yasg = "^1.21.8"
+django-cleanup = "^9.0.0"
+coreapi = "^2.3.3"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+pytest-django = "^4.4.0"
+factory-boy = "^3.2.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

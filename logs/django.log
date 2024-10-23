@@ -1,0 +1,26 @@
+INFO 2024-10-23 20:58:41,544 autoreload 23144 24452 Watching for file changes with StatReloader
+WARNING 2024-10-23 20:58:48,460 log 23144 18112 Not Found: /
+WARNING 2024-10-23 20:58:48,460 basehttp 23144 18112 "GET / HTTP/1.1" 404 3523
+WARNING 2024-10-23 20:58:48,515 log 23144 18112 Not Found: /favicon.ico
+WARNING 2024-10-23 20:58:48,515 basehttp 23144 18112 "GET /favicon.ico HTTP/1.1" 404 3574
+WARNING 2024-10-23 20:58:55,725 log 23144 18112 Unauthorized: /api/
+WARNING 2024-10-23 20:58:55,725 basehttp 23144 18112 "GET /api/ HTTP/1.1" 401 5043
+INFO 2024-10-23 20:58:55,958 basehttp 23144 18112 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-10-23 20:58:55,966 basehttp 23144 18112 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-10-23 20:58:55,975 basehttp 23144 2432 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-10-23 20:58:55,975 basehttp 23144 18112 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-10-23 20:58:55,997 basehttp 23144 2432 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-10-23 20:58:56,015 basehttp 23144 2432 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-10-23 20:58:56,041 basehttp 23144 18112 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-10-23 20:58:56,052 basehttp 23144 2432 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-10-23 20:58:56,061 basehttp 23144 34312 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-10-23 20:58:56,063 basehttp 23144 12040 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-10-23 20:58:56,067 basehttp 23144 16204 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-10-23 20:58:56,085 basehttp 23144 18112 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-10-23 21:01:22,501 autoreload 23144 24452 F:\project\django\github\study cursor\drf-cursor-test\blog_project\urls.py changed, reloading.
+INFO 2024-10-23 21:01:23,427 autoreload 20616 38348 Watching for file changes with StatReloader
+INFO 2024-10-23 21:01:47,377 autoreload 20616 38348 F:\project\django\github\study cursor\drf-cursor-test\blog_project\settings.py changed, reloading.
+INFO 2024-10-23 21:01:48,282 autoreload 20456 34692 Watching for file changes with StatReloader
+INFO 2024-10-23 21:01:57,880 autoreload 20456 34692 F:\project\django\github\study cursor\drf-cursor-test\blog_project\settings.py changed, reloading.
+INFO 2024-10-23 21:01:58,771 autoreload 14096 37280 Watching for file changes with StatReloader
+INFO 2024-10-23 21:03:25,882 autoreload 33264 12804 Watching for file changes with StatReloader
